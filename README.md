@@ -1,5 +1,7 @@
 # Lux
 
+Front-end application to develop an advisor or assistant using the Google API using Vertex: Vertex AI is a comprehensive platform for machine learning development that offers predictive and generative AI capabilities. It allows you to train, evaluate, and also deploy predictive machine learning models for forecasting purposes. Additionally, you can use it to discover, adapt, and deliver generative AI models to produce content. the back-end is called mentor-doctor: (https://github.com/ebercruzf/mentor-doctor.git).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
 ## Development server
